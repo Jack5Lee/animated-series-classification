@@ -4,7 +4,7 @@ Classifying genres of movies based on their posters is a common problem in deep 
 
 ## Dataset
 
-We used a [Kaggle Dataset](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset/) from 2023 consisting of 24,905 posters. Each poster has an id, name (in original language), English name, other name, rating of anime, genres of the anime, synopsis, type (movie or tv series), number of episodes, and date aired.
+We used a [Kaggle Dataset](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset/) from 2023 consisting of 24,905 posters. Each poster has an id, name (in original language), English name, other name (Japanese name), rating of anime, genres of the anime, synopsis, type (movie or tv series), number of episodes, and date aired.
 
 ## Models
 
